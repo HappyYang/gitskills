@@ -1,2 +1,6 @@
 create a dev branch is quick.
-create a new branch is fast and simple.
+<<<<<<< HEAD
+create a new branch is very quick and simple.
+=======
+create a new branch is very quick and simple.
+>>>>>>> feature1
